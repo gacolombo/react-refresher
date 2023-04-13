@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.course-goals h2 {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.goal-list {
+    list-style: none;
+    margin: 2rem;
+    padding: 0;
+}
+
+.goal-list li {
+    margin: 1rem 0;
+    border: 1px solid #ccc;
+    padding: 1rem;
+}
